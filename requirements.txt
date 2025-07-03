@@ -1,0 +1,9 @@
+# requirements.txt
+# This file lists Python packages required to run the NIC.IM EPP OT&E test client.
+
+# Currently, no external packages are required.
+# However, you may add optional tools below if desired:
+
+# lxml        # For robust XML parsing (optional)
+# rich        # For prettier console output (optional)
+# pytest      # For testing (optional)
